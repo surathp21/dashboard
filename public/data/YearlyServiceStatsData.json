@@ -1,0 +1,50 @@
+{
+   "statsMap": {
+      "2019": {
+         "createTime": 1613489466222,
+         "updateTime": 1613489466301,
+         "version": 1,
+         "dealerNameLocation": "Dealer1@Location1",
+         "serviceDate": "2019-01-01",
+         "capacity": 110,
+         "vehiclesReceived": 18250,
+         "excellent": 1825,
+         "veryGood": 4015,
+         "good": 5475,
+         "fair": 5110,
+         "poor": 1825,
+         "checkedIn": 17520,
+         "paused": 45,
+         "washing": 16425,
+         "service": 16790,
+         "finalInspection": 17885,
+         "feedbackTotal": 50,
+         "checkedOut": 17155,
+         "frequencyAvgRating": 2.94
+      },
+      "2020": {
+         "createTime": 1613479202298,
+         "updateTime": 1613479202457,
+         "version": 1,
+         "dealerNameLocation": "Dealer1@Location1",
+         "serviceDate": "2020-01-01",
+         "capacity": 110,
+         "vehiclesReceived": 16425,
+         "excellent": 1095,
+         "veryGood": 4380,
+         "good": 5475,
+         "fair": 4380,
+         "poor": 1095,
+         "checkedIn": 16060,
+         "paused": 44,
+         "washing": 16425,
+         "service": 15695,
+         "finalInspection": 15330,
+         "feedbackTotal": 45,
+         "checkedOut": 16425,
+         "frequencyAvgRating": 3
+      }
+   },
+   "vehiclesReceivedAvg": 17337.5,
+   "ratingsAvg": 3
+}
